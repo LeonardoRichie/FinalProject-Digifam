@@ -1,5 +1,5 @@
 Live link:
-Demo video link:
+Demo video link:https://leonardorichie.github.io/FinalProject-Digifam/
 
 className: L1BC
 
