@@ -22,6 +22,22 @@ body{
   width: 300px;
   margin-left: 200px;
 }
+.btn-11{
+  width: 120px;
+  height: 100px;
+  border: none;
+  color: black;
+  background-color:#596aff;
+  border-radius: 40px;
+  box-shadow: inset 0 0 0 0 #03eeff;
+  transition: ease-out 0.3s;
+  font-size: 40px;
+  letter-spacing: 5px;
+  outline: none;
+  font-family: 'Roboto', sans-serif;
+  margin-right: 500px;
+  margin-bottom: 40px;
+}
 .slider{
   position: relative;
   width: 250px;
