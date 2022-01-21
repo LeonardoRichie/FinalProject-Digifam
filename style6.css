@@ -15,7 +15,7 @@ body{
   outline: none;
   font-family: 'Roboto', sans-serif;
   margin-right: 400px;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
 }
 .btn-12{
   margin-top: 10px;
@@ -45,7 +45,7 @@ body{
   letter-spacing: 5px;
   outline: none;
   font-family: 'Roboto', sans-serif;
-  margin: 60px;
+  margin: 50px;
 }
 .img1{
   margin: 5px;
