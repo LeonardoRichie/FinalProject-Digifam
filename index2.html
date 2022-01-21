@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - page 2</title>
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style2.css">
+<style>
+body {
+  background: #f1f1f1;
+}
+
+/* The device with borders */
+.tablet {
+  position: relative;
+  width: 768px;
+  height: 1024px;
+  margin: auto;
+  border: 16px black solid;
+  border-top-width: 60px;
+  border-bottom-width: 60px;
+  border-radius: 36px;
+}
+
+/* The horizontal line on the top of the device */
+.tablet:before {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 5px;
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #333;
+  border-radius: 10px;
+}
+
+/* The circle on the bottom of the device */
+.tablet:after {
+  content: '';
+  display: block;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 50%;
+  bottom: -65px;
+  transform: translate(-50%, -50%);
+  background: #333;
+  border-radius: 50%;
+}
+
+/* The screen (or content) of the device */
+</style>
+</head>
+<body>
+
+<div class="tablet">
+  <head>
+    <title>Log in page</title>
+      <div class = "loginBox">
+        <img src="https://i.ibb.co/d0cFBxP/logo.png" class="logo">
+        <h1 class="Login">Log in</h1>
+        <a href="file:///C:/Users/ASUS/Documents/UNI/HUMAN%20&%20COMPUTER%20INTERACTION/FP%20code/page-4/index4.html"><button hidden> Link </button>
+        <form>
+          <p>Username</p>
+          <input type ="text" name="" placeholder="Enter Username">
+          <p>Password</p>
+          <input type="password" name="" placeholder="Enter Password">
+          <input type="submit" name="" value="Login">
+          <a href="#">Forget Password?</a><br>
+        </form>
+  </head>
+</div>
+
+</body>
+</html>
+<!-- partial -->
+  
+</body>
+</html>

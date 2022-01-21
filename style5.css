@@ -1,0 +1,41 @@
+.btn{
+  width: 400px;
+  height: 50px;
+  background-color: white;
+  border-radius: 20px;
+  border: 2px solid #3f33ff;;
+  transition: background-color 1s;
+  margin: 10px 0;
+  font-size: 30px;
+}
+.btnbox{
+  width: 500px;
+  height: 420px;
+  background: #f7ca00;
+  border-radius: 50px;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+.logo{
+  width: 260px;
+  height: 200px;
+  border-radius: 50%;
+  position: absolute;
+  top: -150px;
+  left: calc(25%);
+}
+.btn:hover{
+background-color: #596aff;
+  color:white;
+}
+.tablet{
+  background-image: url("https://i.ibb.co/SP45qbC/schoolwallpaper.png");}
+body{
+    font-family: 'Roboto', sans-serif;
+  text-align: center;
+}

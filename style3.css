@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  padding: 0;
+    font-family: roboto;
+}
+.signUp{
+  width: 600px;
+  height: auto;
+  padding: 20px;
+  margin: 8% auto 0;
+  text-align: center;
+  font-weight: bold;
+}
+.signUp h1{
+  color: #f7ca00;
+  margin-bottom: 0px;
+  font-size: 100px;
+  margin-top: 0px;
+  
+  
+}
+.input-box{
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 90%;
+  font-size: 35px;
+}
+.signup-btn{
+  background-color: #f7ca00;
+  font-size: 50px;
+  border-radius: 20px;
+  width: 300px;
+}
+img{
+width: 100px;
+}
+.tablet{
+  background: #F47F6B;
+  background-image: url("https://i.ibb.co/yNZzFqb/bus.png");
+  background-size: 1200px;
+}
+.img{
+  width: 500px;
+}
+p{
+  font-size: 30px;
+  margin: 10px;
+  color: white;
+}
+h1{
+  text-align: left;
+}

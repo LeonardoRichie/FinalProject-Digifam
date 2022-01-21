@@ -1,0 +1,50 @@
+.box{
+  width: 500px;
+  height: 420px;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
+  margin-top: 400px;
+  margin-left: 400px;
+}
+h1{
+  color: #ffcc00;
+  font-size: 100px;
+  line-height: 1;
+  margin-top: -85px;
+  
+}
+p{
+  color: white;
+  font-size: 25px;
+}
+.btn{
+  width: 200px;
+  height: 30px;
+  background: white;
+  border-radius: 20px;
+  border: 1px 1px solid #F47F6B;
+  transition: background-color: 0.5s;
+  margin: 0px;
+  margin-right: 40px;
+  transform: translate(160%, 570%);
+  background-color:#ffcc00;
+
+  
+}
+.body2{
+  margin-left: -170px;
+    margin-top: -300px;
+}
+.tablet{
+  background-color: #ffc999;
+  background-image: url("https://i.ibb.co/Twg46yV/library.png");
+  background-size: 500px;
+}
+body{
+  font-size: 20px;
+  
+}
